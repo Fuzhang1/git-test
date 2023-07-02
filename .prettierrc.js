@@ -31,3 +31,4 @@ module.exports = {
   // 20.embeddedLanguageFormatting: "off",默认是auto,控制被引号包裹的代码是否进行格式化
   embeddedLanguageFormatting: 'off',
 };
+
