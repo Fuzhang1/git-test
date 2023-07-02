@@ -1,2 +1,3 @@
-const a=1
-const b=  "asd"
+const a = 1;
+const b = 'asd';
+2;
