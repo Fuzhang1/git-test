@@ -9,7 +9,6 @@ module.exports = {
     'eslint:recommended',
     'plugin:@typescript-eslint/recommended',
     'plugin:react/recommended',
-    'plugin:prettier/recommended',
     'prettier', //生效 eslint-config-prettier 屏蔽配置
   ],
   overrides: [
